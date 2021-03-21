@@ -28,5 +28,5 @@ spec:
             - name: MYSQL_DATABASE
               value: k8s_java
           ports:
-            - containerPort: 3306
+            - containerPort: 3310
               name: mysql

@@ -5,7 +5,7 @@ metadata:
   namespace: dev-to
 spec:
   ports:
-    - port: 3306
+    - port: 3310
   selector:
     app: mysql
   clusterIP: None
